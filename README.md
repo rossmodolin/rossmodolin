@@ -2,7 +2,6 @@
 
 - 🤓 I'm an applied linguist training to become a data scientist and Python developer
 - 💬 I'm very interested in NLP
-- 💻 I'm currently doing a Data Science Bootcamp
 - ✨ I'm very curious and always eager to learn
 
 
