@@ -1,5 +1,6 @@
 # Hi there! <img src="https://media.giphy.com/media/mTs11L9uuyGiI/giphy.gif" width=95 align=center>
 
+About me:
 - 🤓 Applied linguist training to become a data scientist and Python developer
 - 💬 Interested in NLP
 - ✨ Very curious and always eager to learn
