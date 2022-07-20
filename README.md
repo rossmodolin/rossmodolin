@@ -1,12 +1,12 @@
-# Hi there! <img src="https://media.giphy.com/media/mTs11L9uuyGiI/giphy.gif" width=95 align=center>
+# Hi there! Salut! <img src="https://media.giphy.com/media/mTs11L9uuyGiI/giphy.gif" width=95 align=center>
 
 About me:
-- 🤓 Self-taught Python programmer working with object detection at the moment
+- 🤓 Machine Learning developer working with object detection at the moment
 - 💬 Also very interested in NLP
 - ✨ Very curious and always eager to learn
 
 
-- 📫 How to reach me:
+- 📫 Where to find me:
 [![Linkedin Badge](https://img.shields.io/badge/-RossanaModolin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rossanamodolin/)](https://www.linkedin.com/in/rossanamodolin/)
 
 
